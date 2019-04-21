@@ -1,0 +1,7 @@
+node_modules
+yarn-error.log
+vendor
+tmp
+.DS_Store
+.vscode
+src/emails.txt

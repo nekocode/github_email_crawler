@@ -1,0 +1,19 @@
+{
+  "name": "github_email_crawler",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "author": "nekocode",
+  "license": "Apache-2.0",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "dependencies": {
+    "@types/cheerio": "^0.22.11",
+    "@types/node": "^11.13.4",
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.3",
+    "rxjs": "^6.4.0",
+    "ts-node": "^8.0.3",
+    "typescript": "^3.4.3"
+  }
+}
